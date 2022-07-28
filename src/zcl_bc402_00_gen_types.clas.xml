@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_BC402_00_GEN_TYPES</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Template: Generische Typen - Strukturen / Tabellen ausgeben</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC402_00_GEN_TYPES</CLSNAME>
+     <CMPNAME>WRITE_ANY_STRUCT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Listausgabe einer beliebigen flachen Struktur</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC402_00_GEN_TYPES</CLSNAME>
+     <CMPNAME>WRITE_ANY_TABLE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Listausgabe einer bel. int. Tabelle (flacher Zeilentyp)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
